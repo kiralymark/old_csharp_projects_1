@@ -20,7 +20,7 @@ save file form,
 menu,
 RichTextBox
 
-### NyerogepFeladat    
+### NyerogepFeladat  
 
 #### Tags:  
 practice project,
@@ -28,10 +28,10 @@ generate random numbers,
 window icon,
 slot machine
 
-### SaveFileDialogControl    
+### SaveFileDialogControl  
 
 #### Tags:  
 save file form,
-RichTextBox
+RichTextBox,
 save dialog,
 save full path
